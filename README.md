@@ -1,4 +1,4 @@
-# UICourses v2
+# UICourses v2.1
 
 ## Related repos
 - [Spring 2017 dev](https://github.com/sibowsb/courses-uievents-dev)
@@ -18,6 +18,7 @@
 - Wen, Xin
 - Wu, Xintong
 - Yao, Ruiqian
-- Zhi, Qile.
+- Zhi, Qile
+- Zizhang, Xu.
 
 Copyright owned by coauthors. All rights reserved.
